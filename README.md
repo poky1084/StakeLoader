@@ -1,6 +1,9 @@
 # StakeLoader
 Contains 3 stake originals game with running Lua scripts
 
+INSTALLATION VIDEO: https://www.youtube.com/watch?v=0ppG4Q31QEs
+
+
 To make the bots work and running, please install NodeJS (https://nodejs.org/en/download/current) with npm and download pupflare: [https://github.com/poky1084/pupflare](https://github.com/poky1084/StakeLoader/releases/download/1.0.0.0/pupflare-proxy-nodejs.zip).
 To start the cloudflare bypass with pupflare, open Commad Prompt and change direcotry to pupflare folder.
 
