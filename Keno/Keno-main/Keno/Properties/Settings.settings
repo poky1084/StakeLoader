@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Keno.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="apikey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nextbet  = 0.00000000 --sets your first bet.
+selected = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} -- set selected tiles
+risk     = "low" -- set risk level
+
+function dobet()
+    if (win) then
+        print("hit counts: " .. lastBet.hits) 
+        print("multiplier: " .. lastBet.multiplier .. "x")
+    end
+end</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
